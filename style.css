@@ -1,0 +1,70 @@
+/* color palette 
+White: #FFFFFF
+Grey: #F9F6F7
+Beige: #FFE8D6
+Orange: #FF971D */
+
+.orange-text {
+    color: #FF971D;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+.btn {
+    font-weight: bold;
+    color: #F9F6F7;
+    background-color: #FF971D;
+    border: none;    
+}
+hr {
+    border: dotted #FF971D 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a {
+    text-decoration: none;
+    color: #F9F6F7;
+}
+.top {
+    background-color: #F9F6F7;
+    border-radius: 50px;
+}
+.mid {
+    background-color: #FFE8D6;
+    border-radius: 50px;
+}
+.profile-img{
+    border: 10px solid #F9F6F7;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.portfolio {
+    text-align: center;
+}
+.portfolio-img {
+    height: 200px;
+    width: 200px;
+    border: 10px solid #F9F6F7;
+    border-radius: 25px;
+    object-fit: cover;
+}
+
+
+.card{
+    background-color: #F9F6F7;
+    border-radius: 25px;
+    text-align: center;
+}
+.card img{
+    object-fit: cover;
+    height: 200px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
